@@ -32,15 +32,15 @@ export function HomeHero() {
             variants={VARIANTS.fadeUp}
             className="text-5xl md:text-7xl lg:text-8xl font-heading font-bold text-foreground leading-[1.1] tracking-tight mb-8"
           >
-            Building the <br />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-accent">Impossible</span> Fast.
+            Bringing <br />
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-accent">Intelligence</span> to Life.
           </motion.h1>
           
           <motion.p 
             variants={VARIANTS.fadeUp}
             className="text-lg md:text-2xl text-muted-foreground max-w-2xl leading-relaxed mb-10"
           >
-            We are an agile team of builders obsessed with accelerating the future of autonomous systems and embodied AI. From rapid prototyping to scalable deployments.
+            Empowering the next generation of embodied AI and autonomous robotics. We turn visionary concepts into production-ready reality at warp speed.
           </motion.p>
           
           <motion.div 
